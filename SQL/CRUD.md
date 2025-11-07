@@ -1,0 +1,12 @@
+# CRUD:
+
+CREATE, READ, UPDATE, DELETE.
+
+CRUD operations correlate nicely with HTTP methods:
+
+HTTP POST - CREATE
+HTTP GET - READ
+HTTP UPDATE  UPDATE
+HTTP DELETE - DELETE
+
+
